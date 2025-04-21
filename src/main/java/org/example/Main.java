@@ -11,7 +11,6 @@ public class Main {
                 sums += i;
             }
         }
-        System.out.println("Sums of divisors of " + number + " is:");
-        System.out.println(sums);
+        System.out.println("Sums of divisors of " + number + " is:" + sums);
     }
 }
